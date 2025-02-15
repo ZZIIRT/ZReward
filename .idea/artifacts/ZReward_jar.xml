@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZReward:jar">
+    <output-path>$USER_HOME$/OneDrive/Рабочий стол/All/1.16.5/plugins</output-path>
+    <root id="archive" name="ZReward.jar">
+      <element id="module-output" name="ZReward" />
+    </root>
+  </artifact>
+</component>

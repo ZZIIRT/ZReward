@@ -1,0 +1,9 @@
+name: ZReward
+version: '${project.version}'
+main: org.zzii.zreward.ZReward
+api-version: '1.16'
+author: ZZII
+commands:
+  zreward:
+    aliases:
+      - reward
